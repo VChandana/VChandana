@@ -31,34 +31,34 @@
 
 <a href="https://www.linkedin.com/in/chandana-vanam/" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+       src="https://img.icons8.com/color/48/linkedin.png"
        alt="linkedin"
-       height="36"
-       width="36" />
+       height="40"
+       width="40" />
 </a>
 
 <a href="mailto:vchandana2304@gmail.com">
   <img align="center"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
+       src="https://img.icons8.com/color/48/gmail-new.png"
        alt="gmail"
-       height="36"
-       width="36" />
+       height="40"
+       width="40" />
 </a>
 
 <a href="https://github.com/VChandana" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       src="https://img.icons8.com/ios-glyphs/48/github.png"
        alt="github"
-       height="36"
-       width="36" />
+       height="40"
+       width="40" />
 </a>
 
 <a href="https://leetcode.com/vchandana2304/" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+       src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
        alt="leetcode"
-       height="36"
-       width="36" />
+       height="40"
+       width="40" />
 </a>
 
 </p>
