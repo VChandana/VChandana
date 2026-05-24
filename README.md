@@ -41,7 +41,10 @@
 </a>
 
 <a href="https://leetcode.com/vchandana2304/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" />
+ <img align="center" 
+       src="https://cdn.simpleicons.org/leetcode" 
+       alt="leetcode" 
+       height="40" />
 </a>
 </p>
 
