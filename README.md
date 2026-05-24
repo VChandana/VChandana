@@ -28,30 +28,32 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  
-<a href="https://linkedin.com/in/chandana-vanam/" target="_blank">
-  <img align="center" 
-       src="https://skillicons.dev/icons?i=linkedin" 
-       height="40" />
+
+<a href="https://www.linkedin.com/in/chandana-vanam/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin" 
+       alt="linkedin" 
+       height="36" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:vchandana2304@gmail.com">
-  <img align="center" 
-       src="https://skillicons.dev/icons?i=gmail" 
-       height="40" />
+  <img src="https://cdn.simpleicons.org/gmail" 
+       alt="gmail" 
+       height="36" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/VChandana" target="_blank">
-  <img align="center" 
-       src="https://skillicons.dev/icons?i=github" 
-       height="40" />
+  <img src="https://cdn.simpleicons.org/github/white" 
+       alt="github" 
+       height="36" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/vchandana2304/" target="_blank">
-  <img align="center"
-       src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-       alt="leetcode"
-       height="40" />
+  <img src="https://cdn.simpleicons.org/leetcode" 
+       alt="leetcode" 
+       height="36" />
 </a>
 
 </p>
