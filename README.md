@@ -1,16 +1,135 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chandana</h1>
+<h3 align="center">SDE-2 @ Deutsche Bank | Java Backend Engineer | Spring Boot | React</h3>
 
-<!--
-**VChandana/VChandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+4%2B+Years+Experience;Java+%7C+Spring+Boot+%7C+Microservices;React+Developer+%7C+DSA+Enthusiast;Building+Scalable+Systems+%F0%9F%9A%80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+- 💼 Currently working as **SDE-2 at Deutsche Bank**
+- 🌱 Learning **System Design & Advanced DSA**
+- ⚡ Strong in **Java, Spring Boot, REST APIs, React**
+- 🔥 Interested in **Scalable Backend Systems**
+- 🧠 Solving problems on **LeetCode & Codeforces**
+- 🎵 Music | 🏋️ Fitness | 💻 Coding
+
+<br><br>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,mysql,mongodb,git,github,docker,kafka,aws,redis,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+### 🛒 React E-Commerce App
+Frontend-only ecommerce application with:
+- Redux Toolkit
+- Wishlist
+- Dark Mode
+- Product Filters
+- Checkout Flow
+
+---
+
+### ⚡ LRU Cache in Java
+Production-style implementation using:
+- HashMap
+- Doubly Linked List
+- O(1) get/put operations
+
+---
+
+### 📚 DSA Repository
+Optimized Java solutions for:
+- LeetCode
+- Codeforces
+- Interview Problems
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<h3 align="center">⭐ Building scalable systems, solving problems, and growing every day 🚀</h3>
