@@ -30,30 +30,35 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/chandana-vanam/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin" 
-       alt="linkedin" 
-       height="36" />
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+       alt="linkedin"
+       height="36"
+       width="36" />
 </a>
-&nbsp;&nbsp;
 
 <a href="mailto:vchandana2304@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" 
-       alt="gmail" 
-       height="36" />
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
+       alt="gmail"
+       height="36"
+       width="36" />
 </a>
-&nbsp;&nbsp;
 
 <a href="https://github.com/VChandana" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/white" 
-       alt="github" 
-       height="36" />
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       alt="github"
+       height="36"
+       width="36" />
 </a>
-&nbsp;&nbsp;
 
 <a href="https://leetcode.com/vchandana2304/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode" 
-       alt="leetcode" 
-       height="36" />
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+       alt="leetcode"
+       height="36"
+       width="36" />
 </a>
 
 </p>
