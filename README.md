@@ -13,11 +13,12 @@
 
 ## 🚀 About Me
 
-- 💼 Currently working as **SDE-2 at Deutsche Bank**
-- 🌱 Learning **System Design & Advanced DSA**
-- ⚡ Strong in **Java, Spring Boot, REST APIs, React**
-- 🔥 Interested in **Scalable Backend Systems**
-- 🧠 Solving problems on **LeetCode & Codeforces**
+- 💼 SDE-2 at Deutsche Bank
+- ⚙️ Building scalable backend systems and enterprise-grade applications
+- ☕ Specialized in Java, Spring Boot, Microservices, REST APIs, and React
+- 📈 Focused on performance optimization, clean architecture, and scalable system design
+- 🧠 Strong problem-solving skills with deep interest in Data Structures, Algorithms, and distributed systems
+- 🧩 Active problem solver on LeetCode & Codeforces
 - 🎵 Music | 🏋️ Fitness | 💻 Coding
 
 <br><br>
@@ -27,16 +28,20 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="https://www.linkedin.com/in/chandana-vanam/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vchandana2304@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/VChandana">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://leetcode.com/vchandana2304/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" />
 </a>
 </p>
 
