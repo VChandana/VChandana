@@ -67,42 +67,14 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,mysql,mongodb,git,github,docker,kafka,aws,redis,postman" />
-
-</div>
-
-## 🛠️ Tech Stack
-
 <p align="left">
 
-<a href="https://www.java.com/en/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 </a>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" height="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" height="50"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
@@ -113,37 +85,64 @@
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+</a>
+
+<a href="https://www.java.com/en/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=kafka" height="50"/>
 </a>
 
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+<a href="https://maven.apache.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=maven" height="50"/>
 </a>
 
-<a href="https://redis.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=redis" height="50"/>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </a>
 
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=postman" height="50"/>
 </a>
 
-</p>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>
 
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" height="50"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+</a>
+
+</p>
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=VChandana&show_icons=true&theme=tokyonight&border_radius=10" />
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VChandana&theme=tokyonight&border_radius=10" />
 
 </div>
 
@@ -153,37 +152,9 @@
 
 <div align="center">
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VChandana&layout=compact&theme=tokyonight&border_radius=10" />
 
 </div>
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 React E-Commerce App
-Frontend-only ecommerce application with:
-- Redux Toolkit
-- Wishlist
-- Dark Mode
-- Product Filters
-- Checkout Flow
-
----
-
-### ⚡ LRU Cache in Java
-Production-style implementation using:
-- HashMap
-- Doubly Linked List
-- O(1) get/put operations
-
----
-
-### 📚 DSA Repository
-Optimized Java solutions for:
-- LeetCode
-- Codeforces
-- Interview Problems
 
 ---
 
@@ -201,7 +172,7 @@ Optimized Java solutions for:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VChandana&theme=tokyo-night" />
 
 </div>
 
@@ -211,7 +182,7 @@ Optimized Java solutions for:
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VChandana/VChandana/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
