@@ -157,44 +157,5 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VChandana&layout=compact&theme=tokyonight&border_radius=10" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VChandana&theme=tokyo-night" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/VChandana/VChandana/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 <h3 align="center">⭐ Building scalable systems, solving problems, and growing every day 🚀</h3>
