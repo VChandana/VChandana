@@ -73,6 +73,14 @@
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 </a>
 
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+</a>
+
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
 </a>
@@ -121,6 +129,10 @@
   <img src="https://skillicons.dev/icons?i=react" height="50"/>
 </a>
 
+<a href="https://redux.js.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redux" height="50"/>
+</a>
+
 <a href="https://redis.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=redis" height="50"/>
 </a>
@@ -129,11 +141,8 @@
   <img src="https://skillicons.dev/icons?i=spring" height="50"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
-</a>
-
 </p>
+
 ---
 
 ## 📊 GitHub Stats
