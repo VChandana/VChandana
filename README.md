@@ -73,6 +73,68 @@
 
 </div>
 
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<a href="https://www.java.com/en/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="50"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kafka" height="50"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" height="50"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+</a>
+
+</p>
+
 ---
 
 ## 📊 GitHub Stats
